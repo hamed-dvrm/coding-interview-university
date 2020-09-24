@@ -93,7 +93,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Heap / Priority Queue / Binary Heap](#heap--priority-queue--binary-heap)
     - balanced search trees (general concept, not details)
     - traversals: preorder, inorder, postorder, BFS, DFS
-- [Sorting](#sorting)
+- [X](#sorting)
     - selection
     - insertion
     - heapsort
