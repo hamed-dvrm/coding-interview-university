@@ -1,1 +1,1 @@
-hello checking push command
+checking push command
